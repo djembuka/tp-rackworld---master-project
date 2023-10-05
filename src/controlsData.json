@@ -1,0 +1,9 @@
+{
+  "name": "param4",
+  "type": "select",
+  "options": [
+    { "value": "", "text": "-" },
+    { "value": "new-v2", "text": "new-Value 2" },
+    { "value": "new-v3", "text": "new-Value 3" }
+  ]
+}
